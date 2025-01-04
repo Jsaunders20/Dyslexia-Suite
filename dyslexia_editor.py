@@ -10,7 +10,7 @@ A customizable text editor designed to assist dyslexic readers with features inc
 - Real-time preview with applied settings
 
 Created by Jackson Saunders
-GitHub: [Your GitHub Username]
+GitHub: Jsaunders20
 
 This editor uses Tkinter for the GUI and can be compiled into a standalone application 
 for both Windows and macOS using PyInstaller.
