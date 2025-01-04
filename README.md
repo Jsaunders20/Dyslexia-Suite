@@ -141,5 +141,5 @@ If you use this software in your research, please cite:
 
 ```
 Saunders, J. (2024). Dyslexia Accessibility Tools [Computer software]. 
-https://github.com/Jsaunders20/dyslexia-tools
+https://github.com/Jsaunders20/dyslexia-suite
 ```
